@@ -77,6 +77,14 @@ nav .inner button {
 
 }
 
+.tools {
+    margin-top: 2rem;
+}
+
+.tools a img{
+    margin: 2rem 8.5rem;
+}
+
 section.profile {
     background: var(--black);
     display:flex;
